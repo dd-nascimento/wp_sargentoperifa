@@ -1,13 +1,12 @@
 <?php get_header(); ?>
-
     <!-- Conteúdo dinâmico -->
     <div class="content-area">
         <main>
-            <section class="slide"></section>
-            <section class="quick-access"></section>
+            <section class="slide"> Carrossel</section>
+            <section class="quick-access"> Acesso rápido</section>
             <section class="middle-area">
-                <aside class="sidebar"></aside>
-                <div class="news"></div>
+                <aside class="sidebar">Barra lateral</aside>
+                <div class="news"> Noticias</div>
             </section>
         </main>
     </div>
